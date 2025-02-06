@@ -1,5 +1,5 @@
 # Lab-Assignment-1-Strategy-Pattern
-![Image](https://github.com/user-attachments/assets/e4f7b6b6-e9d9-4e68-bacf-7bd1c81be9a4)
+![Image](https://github.com/user-attachments/assets/51741c60-72fb-415a-aa3f-bed701551d5c)
 Problem scenario:
 
 Suppose we have three types of characters in a GameApp:
